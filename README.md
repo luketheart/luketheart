@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm Eric Li, a passionate developer with a keen interest in Web3 and blockchain technology. Welcome to my GitHub profile!
+I'm Luke, a passionate developer with a keen interest in Web3 and blockchain technology. Welcome to my GitHub profile!
 
 #### About Me
 
